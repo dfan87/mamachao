@@ -1,3 +1,8 @@
+head {
+  margin: 0;
+}
+
 .header {
-  color: blue;
+  height: 72px;
+  background:#f39b2b;
 }
